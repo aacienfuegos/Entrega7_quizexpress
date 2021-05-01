@@ -8,5 +8,8 @@
         "serverUrl": "https://autocorector.dit.upm.es/",
         "courseId": "8249",
         "assignmentId": "78553"
+    },
+    "dependencies": {
+        "express-generator": "^4.16.1"
     }
 }
