@@ -10,6 +10,6 @@
         "assignmentId": "78553"
     },
     "dependencies": {
-        "express-generator": "^4.16.1"
+        "express-generator": "^4.2.0"
     }
 }
